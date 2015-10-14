@@ -1,3 +1,14 @@
+# Por diversion
+
+Voy a usar este repo para resolver algunos de los retos propuestos, el principal objetivo es divertirme y ver si puedo codear un poco mejor.
+De llegar algo de tiempo y si el problema lo amerita voy a escribir el por que de la solucion propuesta.
+
+
+## Soluciones
+
+* Async; https://github.com/eugenioclrc/exercises/blob/master/async/index.js
+
+
 [![Gitter][gitter-image]][gitter-url]
 
 These are some basic (and advanced) coding challenges
