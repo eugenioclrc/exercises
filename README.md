@@ -6,7 +6,8 @@ De llegar algo de tiempo y si el problema lo amerita voy a escribir el por que d
 
 ## Soluciones
 
-* Async; https://github.com/eugenioclrc/exercises/blob/master/async/index.js
+* [dificil] Async; https://github.com/eugenioclrc/exercises/blob/master/async/index.js
+* [facil] Value; https://github.com/eugenioclrc/exercises/blob/master/value/index.js
 
 
 [![Gitter][gitter-image]][gitter-url]
